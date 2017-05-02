@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-
+ // ATHIF ATHIF
     public static void play(int max) {
         Scanner input = new Scanner(System.in);
         boolean playAgain = true;
