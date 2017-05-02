@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { //Athif
 
     public static void play(int max) {
         Scanner input = new Scanner(System.in);
